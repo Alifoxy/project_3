@@ -51,13 +51,10 @@
  .widget {
      width: 120px;
      height: 120px;
+     background: mediumpurple;
      position: relative;
      box-sizing: border-box;
      border-radius: 10px;
      margin: 15px;
      top: -60px;
- }
-
- .lav {
-     background: mediumpurple;
  }
